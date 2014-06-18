@@ -87,7 +87,7 @@
     })
 })(jQuery);
 
-(function (d) {
+(function(d){
     d.fn.visible = function (e, i) {
         var a = d(this).eq(0),
             f = a.get(0),
